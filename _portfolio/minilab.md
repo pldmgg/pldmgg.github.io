@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MiniLab On GitHub
-img: "assets/img/portfolio/github.png"
+img: "assets/img/portfolio/MiniLab_Portfolio.png"
 date: 02-06-2018
 tags: [Portfolio]
 ---

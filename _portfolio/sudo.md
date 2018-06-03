@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sudo For PowerShell On GitHub
-img: "assets/img/portfolio/github.png"
+img: "assets/img/portfolio/Sudo_Portfolio.png"
 date: 02-06-2018
 tags: [Portfolio]
 ---

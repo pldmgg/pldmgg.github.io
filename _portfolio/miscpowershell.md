@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MiniLab On GitHub
-img: "assets/img/portfolio/github.png"
+title: Miscellaneous PowerShell On GitHub
+img: "assets/img/portfolio/MiscPowerShell_Portfolio.png"
 date: 02-06-2018
 tags: [Portfolio]
 ---
