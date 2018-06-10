@@ -180,6 +180,12 @@ img[align=right] {
     margin-left: 3%;
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
 /* ---- Responsive ---- */
 
 @media screen and (max-width: $break) {
