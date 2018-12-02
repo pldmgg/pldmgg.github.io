@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTMLToJson PowerShell Module
-thumbnail: "assets/img/thumbnails/MiniLab-Thumbnail.png"
+#thumbnail: "assets/img/thumbnails/MiniLab-Thumbnail.png"
 tags: [PowerShell, PowerShell Core, pwsh, Splash, ScrapingHub, dotnet, dotnet-script, openscraping]
 excerpt_separator: <!--more-->
 ---
