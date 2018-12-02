@@ -13,7 +13,7 @@ So you've finally found a site with a ton of great information, but it hasn't im
 
 **Compatibility**
 
-All functions in the HTMLToJson Module except `Install-Docker` and `Deploy-SplashServer` are compatible with Windows PowerShell 5.1 and PowerShell Core 6.X (Windows and Linux). The `Install-Docker` and `Deploy-SplashServer` functions work on PowerShell Core 6.X on Linux (specifically Ubuntu 18.04|16.04|14.04, Debian 9|8, CentOS|RHEL 7, OpenSUSE 42)
+All functions in the HTMLToJson Module except `Install-Docker` and `Deploy-SplashServer` are compatible with Windows PowerShell 5.1 and PowerShell Core 6.X (Windows and Linux). The `Install-Docker` and `Deploy-SplashServer` functions work on PowerShell Core 6.X on Linux (specifically Ubuntu 18.04/16.04/14.04, Debian 9/8, CentOS/RHEL 7, OpenSUSE 42).
 
 **HTMLToJson Module On GitHub:**
 
